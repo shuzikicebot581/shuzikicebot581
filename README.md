@@ -1,16 +1,20 @@
-## Hi there 👋
+![dev-community development](https://media1.giphy.com/media/v1.Y2lkPTdiYzJhNDkwdTIwejJoNThsYW14MGthcnl3MHZtMzJ0Ymd6MTNyaWY1cm40czhqNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT8qBbjl8TzPT503du/giphy.gif)
 
-<!--
-**shuzikicebot581/shuzikicebot581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Introducción
+Hola, soy shuzikicebot581, un desarrollador dedicado a crear soluciones eficientes y efectivas.
 
-Here are some ideas to get you started:
+# Habilidades
+- Python
+- JavaScript
+- HTML/CSS
+- Desarrollo web
+- Bases de datos SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Proyectos
+- **Proyecto A**: Aplicación web para gestión de tareas.
+- **Proyecto B**: API RESTful para servicios de datos.
+
+# Contactos
+Puedes encontrarme en:
+- [LinkedIn](https://www.linkedin.com/in/shuzikicebot581)
+- [Twitter](https://twitter.com/shuzikicebot581)
