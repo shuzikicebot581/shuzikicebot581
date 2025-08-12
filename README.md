@@ -1,16 +1,16 @@
-# Introducción
-¡Hola! Soy shuzikicebot581, un desarrollador entusiasta que ama crear soluciones innovadoras.
+# shuzikicebot581
 
-# Habilidades
-- Programación en Python, JavaScript y Java.
-- Desarrollo web (HTML, CSS, React).
-- Bases de datos (MySQL, MongoDB).
+**Theme:** web-development
 
-# Proyectos
-- **Proyecto A**: Una aplicación web para la gestión de tareas.
-- **Proyecto B**: Un bot de Telegram para automatizar tareas diarias.
+## About
+Focused on web-development.
 
-# Contactos
-Puedes encontrarme en:
-- [GitHub](https://github.com/shuzikicebot581)
-- [LinkedIn](https://www.linkedin.com/in/shuzikicebot581)
+## Tech
+- Python · Git · CI/CD
+- - web
+- frontend
+- backend
+- react
+
+## Links
+- Profile: https://github.com/shuzikicebot581
