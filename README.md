@@ -1,20 +1,16 @@
-![dev-community development](https://media1.giphy.com/media/v1.Y2lkPTdiYzJhNDkwdTIwejJoNThsYW14MGthcnl3MHZtMzJ0Ymd6MTNyaWY1cm40czhqNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT8qBbjl8TzPT503du/giphy.gif)
-
 # Introducción
-Hola, soy shuzikicebot581, un desarrollador dedicado a crear soluciones eficientes y efectivas.
+¡Hola! Soy shuzikicebot581, un desarrollador entusiasta que ama crear soluciones innovadoras.
 
 # Habilidades
-- Python
-- JavaScript
-- HTML/CSS
-- Desarrollo web
-- Bases de datos SQL
+- Programación en Python, JavaScript y Java.
+- Desarrollo web (HTML, CSS, React).
+- Bases de datos (MySQL, MongoDB).
 
 # Proyectos
-- **Proyecto A**: Aplicación web para gestión de tareas.
-- **Proyecto B**: API RESTful para servicios de datos.
+- **Proyecto A**: Una aplicación web para la gestión de tareas.
+- **Proyecto B**: Un bot de Telegram para automatizar tareas diarias.
 
 # Contactos
 Puedes encontrarme en:
+- [GitHub](https://github.com/shuzikicebot581)
 - [LinkedIn](https://www.linkedin.com/in/shuzikicebot581)
-- [Twitter](https://twitter.com/shuzikicebot581)
